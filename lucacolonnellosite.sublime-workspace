@@ -1,0 +1,863 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"reset",
+				"reset_cache"
+			],
+			[
+				"idporta",
+				"idportale"
+			],
+			[
+				"Modul",
+				"ModulesManager"
+			],
+			[
+				"structu",
+				"structure_data"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"us",
+				"usmap"
+			],
+			[
+				"materi",
+				"materiecorso"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"melo",
+				"melo1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/config.json",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/config_dev.json",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/router.json",
+			"settings":
+			{
+				"buffer_size": 216,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "view/index.jade",
+			"settings":
+			{
+				"buffer_size": 29,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "view/500.jade",
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 273,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 3951,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"html2",
+				"HTML2Jade: Convert selection"
+			],
+			[
+				"ht",
+				"HTML2Jade: Convert selection"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/config/actions.config.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/modules/common/common.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/dataManager/config/seo_pages.config.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/dataManager/modules/seo/seo.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/dataManager/public_modules/p_seo/p_seo.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/dataManager/public_modules/p_hash_cache/p_hash_cache.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/dataManager/modules/hash_cache/hash_cache.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/admin/js/admin/MODULES/structures/components/detail.js",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/admin/js/admin/MODULES/media/components/media.js",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/dataManager/public_modules/p_structures/p_structures.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/actions/regione.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/modules/dataManager/dataManager.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/dataManager/public_modules/p_adv/p_adv.class.php",
+		"/Users/lucacolonnello/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/index.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/class/core/debug.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/class/core/layout.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/db_data_setup/ricerche_campeggicom.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/actions/struttura.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/class/core/task/getPageFromDataManager.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/class/core/task/findAction.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/config/mainTask.config.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/class/core/main.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/dataManager/modules/media/media.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/admin/class/descriptor/pages.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/dataManager/modules/hash_cache/hash_cache.config.php",
+		"/Volumes/Public/Clienti/GITAV/new.gitav.com/include/conn.asp",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/actions/nazione.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/admin/class/core/protocol.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/lib/smarty/sysplugins/smarty_internal_get_include_path.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/dataManager/modules/system/system.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/dataManager/config.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/dataManager/public_modules/p_media/p_media.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/dataManager/public_modules/p_hash_cache/p_hash_cache.config.php",
+		"/Users/lucacolonnello/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/config/webServicesTask.config.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portals_base/modules/dataManager/dataManager.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/repository/v1.0/js/plugins/popover.js",
+		"/Users/lucacolonnello/Desktop/RequireJS Test/node_modules/utility/queue.js",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/templates/tpl/struttura.html",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/js/plugins/email.plugin.js",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/templates/include/structure/info-col.html",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/templates/include/structure/georeferencingbar.html",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/templates/tpl/generale.html",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/class/core/pluginsManager.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/contacts_server/langs/it/global.conf",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/contacts_server/config.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/contacts_server/actions/form.class.php",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/contacts_server/js/app/form_send.js",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/contacts_server/js/init.js",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/repository/v1.0/js/core/connection.js",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/repository/v1.0/js/ntc.base.js",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/sftp-config-alt.json",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/sftp-config.json",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/admin/js/admin/MODULES/customers/components/list.js",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/templates/tpl/fullwidth.html",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/templates/tpl/untitled.html",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/portali/campeggi.com/dev/templates/tpl/generale.html.jade",
+		"/Volumes/DATI/CRWEB/LAVORI/NTC/ntc/ntc.crweb.it/admin/templates/tpl/generale.html",
+		"/Users/lucacolonnello/test-site-lc/server.js",
+		"/Users/lucacolonnello/Desktop/RequireJS Test/public/app/main.js",
+		"/Users/lucacolonnello/Desktop/RequireJS Test/public/r-config.js",
+		"/Users/lucacolonnello/Desktop/RequireJS Test/view/index.jade",
+		"/Users/lucacolonnello/test-site-lc/package.json",
+		"/Users/lucacolonnello/Desktop/RequireJS Test/public/app/page2.js",
+		"/Users/lucacolonnello/Desktop/RequireJS Test/public/app/page3.js",
+		"/Users/lucacolonnello/Desktop/RequireJS Test/public/templates/home.html",
+		"/Users/lucacolonnello/Desktop/RequireJS Test/public/templates/page3.html",
+		"/Users/lucacolonnello/Desktop/RequireJS Test/public/templates/page2.html",
+		"/Users/lucacolonnello/Desktop/ashjs-asteroids-example-master/ashteroids.dev.html",
+		"/Users/lucacolonnello/Desktop/RequireJS Test/public/lib/jquery.js",
+		"/Users/lucacolonnello/Desktop/RequireJS Test/public/lib/require.js",
+		"/Users/lucacolonnello/Desktop/RequireJS Test/.bowerrc",
+		"/Users/lucacolonnello/Desktop/NodeJS Boilerplate/nodejsboilerplate/server.js",
+		"/Users/lucacolonnello/Desktop/ashjs-asteroids-example-master/Gruntfile.js",
+		"/Users/lucacolonnello/Desktop/ashjs-asteroids-example-master/build.js",
+		"/Users/lucacolonnello/Desktop/ashjs-asteroids-example-master/lib/ash/ash.js",
+		"/Users/lucacolonnello/Desktop/ashjs-asteroids-example-master/src/config.js",
+		"/Users/lucacolonnello/Desktop/ashjs-asteroids-example-master/src/asteroids-app.js",
+		"/Users/lucacolonnello/Desktop/ashjs-asteroids-example-master/src/game/asteroids.js",
+		"/Users/lucacolonnello/Desktop/ashjs-asteroids-example-master/lib/vendor/almond.js",
+		"/Users/lucacolonnello/Desktop/algoritmo unwrap.html",
+		"/Users/lucacolonnello/Desktop/ashjs-asteroids-example-master/build/ashteroids.js",
+		"/Users/lucacolonnello/Desktop/Eyetracking Presentation Site/nodejsboilerplate/controller/index.js",
+		"/Users/lucacolonnello/Desktop/Eyetracking Presentation Site/nodejsboilerplate/views/include/meta.jade",
+		"/Users/lucacolonnello/Desktop/Eyetracking Presentation Site/nodejsboilerplate/config/config_dev.json",
+		"/Users/lucacolonnello/Desktop/Eyetracking Presentation Site/nodejsboilerplate/config/config.json",
+		"/Users/lucacolonnello/Desktop/test editor/medium.js",
+		"/Users/lucacolonnello/Desktop/test editor/test.html",
+		"/Users/lucacolonnello/Desktop/svg2imagemap/Map_of_USA_with_state_names.html",
+		"/Users/lucacolonnello/Desktop/svg2imagemap/svgtomaparea.py",
+		"/Users/lucacolonnello/Desktop/svg2imagemap/svg2imagemap.py",
+		"/Users/lucacolonnello/Desktop/svg2imagemap/Map_of_USA_with_state_names.svg",
+		"/Users/lucacolonnello/Desktop/angular.js",
+		"/Users/lucacolonnello/Desktop/esercizio5/es5.php",
+		"/Users/lucacolonnello/Desktop/esercizio5/response.php",
+		"/Users/lucacolonnello/Desktop/Luca Colonnello Site Local/luca/server.js",
+		"/Users/lucacolonnello/Desktop/mysite/package.json",
+		"/Users/lucacolonnello/Desktop/Luca Colonnello Site/luca/package.json",
+		"/Users/lucacolonnello/Desktop/Luca Colonnello Site Local/luca/core/server.js",
+		"/Users/lucacolonnello/Desktop/mysite/server.js",
+		"/Users/lucacolonnello/Desktop/Luca Colonnello Site Local/luca/core/config-loader.js",
+		"/Users/lucacolonnello/Desktop/Luca Colonnello Site Local/luca/node_modules/when/when.js",
+		"/Users/lucacolonnello/Desktop/Luca Colonnello Site Local/luca/core/server/models/post.js",
+		"/Users/lucacolonnello/Desktop/Luca Colonnello Site Local/luca/config.js",
+		"/Users/lucacolonnello/Desktop/Luca Colonnello Site Local/luca/core/ghost.js",
+		"/Users/lucacolonnello/Desktop/Luca Colonnello Site Local/luca/index.html",
+		"/Users/lucacolonnello/Desktop/Luca Colonnello Site Local/luca old/server.js",
+		"/Users/lucacolonnello/Desktop/Luca Colonnello Site Local/luca/node_modules/handlebars/dist/handlebars.js",
+		"/Users/lucacolonnello/Desktop/Luca Colonnello Site Local/luca/node_modules/handlebars/lib/handlebars.js",
+		"/Users/lucacolonnello/Desktop/mysite/templates/index.html",
+		"/Users/lucacolonnello/Desktop/myserver/app.js",
+		"/Users/lucacolonnello/Desktop/Efesto/PRJ/test views/views.html",
+		"/Volumes/THE DOCTOR/Progetti/Efesto JS/project tests/README",
+		"/Volumes/THE DOCTOR/Progetti/Efesto JS/project tests/new html.html",
+		"/Volumes/THE DOCTOR/Progetti/Efesto JS/project tests/TEST 1",
+		"/Users/lucacolonnello/Desktop/Correzione verifica sql ottobre.sql",
+		"/Users/lucacolonnello/Desktop/app/data/content/index.html",
+		"/Users/lucacolonnello/Desktop/app/data/content/driver.js",
+		"/Users/lucacolonnello/AppJS Test/config/application.coffee",
+		"/Users/lucacolonnello/Desktop/Javascript Tutorial.js",
+		"/Users/lucacolonnello/Desktop/PHP Tutorial.php",
+		"/Users/lucacolonnello/Library/Caches/Cleanup At Startup/Transmit/F619E4F8-4BEF-45EE-A4A1-C6C46EC79640/Backoffice.ajax.php",
+		"/Users/lucacolonnello/Library/Caches/Cleanup At Startup/Transmit/6AC4E219-A6E8-4F8E-A18E-BC5FC1245FEA/ajaxHandler.php",
+		"/Users/lucacolonnello/Library/Caches/Cleanup At Startup/Transmit/DF8BB375-4A98-4A25-A612-4C9349C365D4/Backoffice.ajax.php",
+		"/Volumes/THE DOCTOR/Musica/KARAOKE/Cover/Basi/Claudio Baglioni - Tutto il Clalcio Minuto per Minuto.txt",
+		"/Users/lucacolonnello/Desktop/tmk.new.sql",
+		"/Volumes/THE DOCTOR/Musica/KARAOKE/Cover/Basi/Claudio Baglioni - Il Nostro Concerto.rtf"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getStructureCac",
+			"save",
+			"onSave",
+			"media",
+			"Media",
+			"media",
+			"getResourcesData",
+			"getStructureDe",
+			"save",
+			"getEditorial",
+			"getPageAdv",
+			"regione",
+			"struttura",
+			"getStructureCachedData",
+			"msie",
+			"other",
+			"setNation",
+			"getStructureDetail",
+			"getStructureD",
+			"plugin",
+			");\n",
+			"\",\n",
+			"$(\".structure,.module.adv.takeover\")",
+			"js signal",
+			"\",\n",
+			"wild",
+			"Medium",
+			"settings",
+			"beforeInvokeElement",
+			"tags.inner",
+			"tags.innerLevel",
+			"innerLevel",
+			"Editor",
+			"points",
+			"			\n",
+			"iterator",
+			"iterator:",
+			"function iterator",
+			"\",\n",
+			"trovata",
+			"name",
+			"div",
+			"variabili",
+			"ca",
+			"can't",
+			";",
+			"div",
+			"html",
+			"param = base64_encode( json_encode( param ) );"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"param = encodeURIComponent( base64_encode( json_encode( param ) ) );"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/config.json",
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145,
+								145
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/config_dev.json",
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								145
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config/router.json",
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "view/index.jade",
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "view/500.jade",
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "server.js",
+					"settings":
+					{
+						"buffer_size": 3951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								853,
+								853
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 710.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"p_seo.",
+				"dataManager/public_modules/p_seo/p_seo.class.php"
+			],
+			[
+				"seo.cla",
+				"dataManager/modules/seo/seo.class.php"
+			],
+			[
+				"seo",
+				"dataManager/config/seo_pages.config.php"
+			],
+			[
+				"common",
+				"portali/campeggi.com/dev/modules/common/common.class.php"
+			],
+			[
+				"campeggi.com/actions.",
+				"portali/campeggi.com/dev/config/actions.config.php"
+			],
+			[
+				"p_s",
+				"dataManager/public_modules/p_structures/p_structures.class.php"
+			],
+			[
+				"admin/structures/components/detail",
+				"admin/js/admin/MODULES/structures/components/detail.js"
+			],
+			[
+				"datamanager/p_adv",
+				"dataManager/public_modules/p_adv/p_adv.class.php"
+			],
+			[
+				"regione",
+				"portali/campeggi.com/dev/actions/regione.class.php"
+			],
+			[
+				"campeggi.com/action",
+				"portali/campeggi.com/dev/config/actions.config.php"
+			],
+			[
+				"campeggi.com/debug.c",
+				"portali/campeggi.com/dev/class/core/debug.class.php"
+			],
+			[
+				"campeggi.com/layout",
+				"portali/campeggi.com/dev/class/core/layout.class.php"
+			],
+			[
+				"campeggi.com/index",
+				"portali/campeggi.com/dev/index.php"
+			],
+			[
+				"seo_pages",
+				"dataManager/config/seo_pages.config.php"
+			],
+			[
+				"datamanaer/se",
+				"dataManager/config/seo_pages.config.php"
+			],
+			[
+				"common.cla",
+				"portali/campeggi.com/dev/modules/common/common.class.php"
+			],
+			[
+				"campeggi.com/main.cla",
+				"portali/campeggi.com/dev/class/core/main.class.php"
+			],
+			[
+				"struttura",
+				"portali/campeggi.com/dev/actions/struttura.class.php"
+			],
+			[
+				"pages.cla",
+				"admin/class/descriptor/pages.class.php"
+			],
+			[
+				"media.class",
+				"dataManager/modules/media/media.class.php"
+			],
+			[
+				"campeggi.com/datamanager",
+				"portali/campeggi.com/dev/modules/dataManager/dataManager.class.php"
+			],
+			[
+				"protocol",
+				"admin/class/core/protocol.class.php"
+			],
+			[
+				"campeggi.com/nazione",
+				"portali/campeggi.com/dev/actions/nazione.class.php"
+			],
+			[
+				"campeggi.com/common",
+				"portali/campeggi.com/dev/modules/common/common.class.php"
+			],
+			[
+				"campegigi",
+				"portali/campeggi.com/dev/lib/smarty/sysplugins/smarty_internal_get_include_path.php"
+			],
+			[
+				"system.class.php",
+				"dataManager/modules/system/system.class.php"
+			],
+			[
+				"datamanager/confi",
+				"dataManager/config.php"
+			],
+			[
+				"p_meda",
+				"dataManager/public_modules/p_media/p_media.class.php"
+			],
+			[
+				"campeggi.com/datamana",
+				"portali/campeggi.com/dev/modules/dataManager/dataManager.class.php"
+			],
+			[
+				"datamanager",
+				"portals_base/modules/dataManager/dataManager.class.php"
+			],
+			[
+				"p_media",
+				"dataManager/public_modules/p_media/p_media.class.php"
+			],
+			[
+				"p_structu",
+				"dataManager/public_modules/p_structures/p_structures.class.php"
+			],
+			[
+				"popover",
+				"repository/v1.0/js/plugins/popover.js"
+			],
+			[
+				"generale.h",
+				"portali/campeggi.com/dev/templates/tpl/generale.html"
+			],
+			[
+				"campeggi.com/plugin",
+				"portali/campeggi.com/dev/class/core/pluginsManager.class.php"
+			],
+			[
+				"campeggi.com/layout.class.php",
+				"portali/campeggi.com/dev/class/core/layout.class.php"
+			],
+			[
+				"config.php",
+				"contacts_server/config.php"
+			],
+			[
+				"modules/customers/component",
+				"admin/js/admin/MODULES/customers/components/list.js"
+			],
+			[
+				"ntc",
+				"repository/v1.0/js/ntc.base.js"
+			],
+			[
+				"connec",
+				"repository/v1.0/js/core/connection.js"
+			],
+			[
+				"tpl/generale",
+				"portali/campeggi.com/dev/templates/tpl/generale.html"
+			],
+			[
+				"tpl/gener",
+				"admin/templates/tpl/generale.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/Public/___CARTELLE VARIE/___APP&SW CREATIWEB/CREATE FRAMEWORK by CreatiWeb S.r.l/WIKI/client/v1.0/create-project.v1.0.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true
+}

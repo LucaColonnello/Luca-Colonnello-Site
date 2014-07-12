@@ -1,0 +1,12 @@
+{
+  "name": "luca-colonnello-site",
+  "description": "Luca Colonnello Site",
+  "main": "server.js",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Luca Colonnello <luca.colonnello91@gmail.com>",
+  "dependencies": {
+    "jade": "~1.0.2",
+    "express": "~3.2.4"
+  }
+}

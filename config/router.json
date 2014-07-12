@@ -1,0 +1,16 @@
+[
+	{
+		"page": "index",
+		"method": "get",
+		"controller": ["index"],
+		"url": ["/","/index.html"],
+		"view": "index"
+	},
+	{
+		"page": "404",
+		"method": "get",
+		"controller": "404",
+		"url": "*",
+		"send": 404
+	}
+]
